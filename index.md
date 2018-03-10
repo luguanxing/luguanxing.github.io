@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# 系统分析与设计博客
 
-You can use the [editor on GitHub](https://github.com/luguanxing/luguanxing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 第一次作业
 ```
+1、简单题
+    软件工程的定义
+    阅读经典名著“人月神话”等资料，解释 software crisis、COCOMO 模型。
+    软件生命周期。
+    按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？
+    解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
+    用自己语言简述 SWEBok 或 CMMI （约200字）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luguanxing/luguanxing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2、解释 PSP 各项指标及技能要求：
+    阅读《现代软件工程》的 PSP: Personal Software Process 章节。 http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html
+    按表格 PSP 2.1， 了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？ （期末考核，每人按开发阶段提交这个表）
+```
