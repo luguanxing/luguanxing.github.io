@@ -128,8 +128,8 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
     -  c.淘宝退款流程<br>
         ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)<br/><br>
 - 3.用例文本编写<br>
-    -  优点
-        -  简洁、直观、易理解
-        -  让需求和设计工作分离开来，条理清晰
-    -  缺点
-        -  无法描述细节
+    -  优点<br>
+        -  简洁、直观、易理解<br>
+        -  让需求和设计工作分离开来，条理清晰<br>
+    -  缺点<br>
+        -  无法描述细节<br>
