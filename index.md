@@ -109,10 +109,10 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
 
 ### 解答
 - 1.用例建模
-    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.jpg?raw=true)
+    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.png?raw=true)
     -  b.携程
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.jpg?raw=true)
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.jpg?raw=true)
+        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.png?raw=true)
+        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.png?raw=true)
     -  c.紧跟时代潮流，使用流行的三方软件(百度地图、支付宝、微信)，酒店推荐排序
     -  搜索酒店
         -  选择城市、日期、关键字，点击搜索
@@ -120,9 +120,9 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
         -  根据推荐排序
         -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎
 - 2.业务建模
-    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.jpg?raw=true)
-    -  b.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.jpg?raw=true)
-    -  c.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.jpg?raw=true)
+    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)
+    -  b.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.png?raw=true)
+    -  c.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)
 - 2.用例文本编写
     -  优点
         -  简洁、直观、易理解
