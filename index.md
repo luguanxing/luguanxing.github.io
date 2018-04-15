@@ -120,7 +120,7 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
         -  根据热门点击排序<br>
         -  根据推荐排序<br>
         -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎<br>
-- 2.业务建模
+- 2.业务建模<br>
     -  a.酒店预定流程图<br>
         ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)<br/><br>
     -  b.ATM取款流程<br>
