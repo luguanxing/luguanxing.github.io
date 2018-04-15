@@ -109,23 +109,23 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
 
 ### 解答
 - 1.用例建模
-    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.png?raw=true)
-    -  b.携程
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.png?raw=true)
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.png?raw=true)
-    -  c.紧跟时代潮流，使用流行的三方软件(百度地图、支付宝、微信)，酒店推荐排序
-    -  搜索酒店
-        -  选择城市、日期、关键字，点击搜索
-        -  根据热门点击排序
-        -  根据推荐排序
-        -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎
-- 2.业务建模
-    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)
-    -  b.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.png?raw=true)
-    -  c.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)
-- 2.用例文本编写
-    -  优点
-        -  简洁、直观、易理解
-        -  让需求和设计工作分离开来，条理清晰
-    -  缺点
-        -  无法描述细节
+    -  a.<br/>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.png?raw=true)<br/>
+    -  b.<br/>携程<br/>
+        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.png?raw=true)<br/>
+        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.png?raw=true)<br/>
+    -  c.紧跟时代潮流，使用流行的三方软件(百度地图、支付宝、微信)，酒店推荐排序<br/>
+    -  搜索酒店<br/><br/>
+        -  选择城市、日期、关键字，点击搜索<br/>
+        -  根据热门点击排序<br/>
+        -  根据推荐排序<br/>
+        -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎<br/>
+- 2.业务建模<br/>
+    -  a.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)<br/>
+    -  b.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.png?raw=true)<br/>
+    -  c.![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)<br/>
+- 2.用例文本编写<br/>
+    -  优点<br/>
+        -  简洁、直观、易理解<br/>
+        -  让需求和设计工作分离开来，条理清晰<br/>
+    -  缺点<br/>
+        -  无法描述细节<br/>
