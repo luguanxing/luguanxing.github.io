@@ -134,3 +134,97 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
     -  缺点<br>
         -  无法描述细节<br>
 
+
+<br><br><br><br><br><br><br>
+
+## 第四次作业
+### 题目
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-4-1.png?raw=true)<br>
+
+<br/>
+
+### 解答
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-4-1.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-4-2.png?raw=true)<br>
+
+```
+/*Table structure for table `customer` */
+
+DROP TABLE IF EXISTS `customer`;
+
+CREATE TABLE `customer` (
+  `cid` int(11) NOT NULL,
+  `name` varchar(100) DEFAULT NULL,
+  `phone` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`cid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*Data for the table `customer` */
+
+/*Table structure for table `hotel` */
+
+DROP TABLE IF EXISTS `hotel`;
+
+CREATE TABLE `hotel` (
+  `hid` int(11) NOT NULL,
+  `name` varchar(100) DEFAULT NULL,
+  `address` varbinary(100) DEFAULT NULL,
+  PRIMARY KEY (`hid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*Data for the table `hotel` */
+
+/*Table structure for table `payment` */
+
+DROP TABLE IF EXISTS `payment`;
+
+CREATE TABLE `payment` (
+  `pid` int(11) NOT NULL,
+  `payment` int(11) DEFAULT NULL,
+  `platform` varchar(100) DEFAULT NULL,
+  `rid` int(11) DEFAULT NULL,
+  PRIMARY KEY (`pid`),
+  KEY `FK_payment` (`rid`),
+  CONSTRAINT `FK_payment` FOREIGN KEY (`rid`) REFERENCES `reservation` (`rid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*Data for the table `payment` */
+
+/*Table structure for table `reservation` */
+
+DROP TABLE IF EXISTS `reservation`;
+
+CREATE TABLE `reservation` (
+  `rid` int(11) NOT NULL,
+  `cid` int(11) DEFAULT NULL,
+  `oredrdate` varchar(100) DEFAULT NULL,
+  `checkindate` varchar(100) DEFAULT NULL,
+  `checkoutdate` varchar(100) DEFAULT NULL,
+  `city` varchar(100) DEFAULT NULL,
+  `hid` int(11) DEFAULT NULL,
+  PRIMARY KEY (`rid`),
+  KEY `FK_hotel` (`hid`),
+  KEY `FK_customer` (`cid`),
+  CONSTRAINT `FK_customer` FOREIGN KEY (`cid`) REFERENCES `customer` (`cid`),
+  CONSTRAINT `FK_hotel` FOREIGN KEY (`hid`) REFERENCES `hotel` (`hid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*Data for the table `reservation` */
+
+/*Table structure for table `room` */
+
+DROP TABLE IF EXISTS `room`;
+
+CREATE TABLE `room` (
+  `rid` int(11) NOT NULL,
+  `type` varchar(100) DEFAULT NULL,
+  `number` varchar(100) DEFAULT NULL,
+  `hid` int(11) DEFAULT NULL,
+  PRIMARY KEY (`rid`),
+  KEY `FK_room` (`hid`),
+  CONSTRAINT `FK_room` FOREIGN KEY (`hid`) REFERENCES `hotel` (`hid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+```
+
+<br/>
+
