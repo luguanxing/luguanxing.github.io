@@ -228,3 +228,14 @@ CREATE TABLE `room` (
 
 <br/>
 
+<br><br><br><br><br><br><br>
+
+## 第五次作业
+### 题目
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-5-1.png?raw=true)<br>
+
+<br/>
+
+### 解答
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-5-1.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-5-2.png?raw=true)<br>
