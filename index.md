@@ -56,6 +56,10 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
 
 <br><br><br><br><br><br><br>
 
+
+
+
+
 ## 第二次作业
 ### 题目
 - 1、简单题
@@ -100,6 +104,10 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
 
 <br><br><br><br><br><br><br>
 
+
+
+
+
 ## 第三次作业
 ### 题目
 ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-3-1.jpg?raw=true)
@@ -134,8 +142,11 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
     -  缺点<br>
         -  无法描述细节<br>
 
-
 <br><br><br><br><br><br><br>
+
+
+
+
 
 ## 第四次作业
 ### 题目
@@ -229,6 +240,10 @@ CREATE TABLE `room` (
 <br/>
 
 <br><br><br><br><br><br><br>
+
+
+
+
 
 ## 第五次作业
 ### 题目
