@@ -258,3 +258,21 @@ CREATE TABLE `room` (
 
 <br><br><br><br><br><br><br>
 
+
+
+
+
+## 第六次作业
+### 题目
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-6-1.png?raw=true)<br>
+
+<br/>
+
+### 解答
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-6-1.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-6-2.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-6-3.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-6-4.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-6-5.png?raw=true)<br>
+
+<br><br><br><br><br><br><br>
