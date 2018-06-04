@@ -117,30 +117,30 @@ Level 5 - Optimizing(优化中)：过程的量化反馈和先进的新思想、�
 
 ### 解答
 - 1.用例建模
-    -  a.阅读 Asg_RH 文档，绘制用例图<br>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.png?raw=true)<br/><br>
-    -  b.携程网<br>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.png?raw=true)<br/>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.png?raw=true)<br/><br>
-    -  c.紧跟时代潮流，使用流行的三方软件(百度地图、支付宝、微信)，酒店推荐排序(广告排序)等<br>
-    -  d.搜索酒店<br>
-        -  选择城市、日期、关键字，点击搜索<br>
-        -  根据热门点击排序<br>
-        -  根据推荐排序<br>
-        -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎<br>
+    -  a.阅读 Asg_RH 文档，绘制用例图
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-1.png?raw=true)
+    -  b.携程网
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-2.png?raw=true)
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-3.png?raw=true)
+    -  c.紧跟时代潮流，使用流行的三方软件(百度地图、支付宝、微信)，酒店推荐排序(广告排序)等
+    -  d.搜索酒店
+        -  选择城市、日期、关键字，点击搜索
+        -  根据热门点击排序
+        -  根据推荐排序
+        -  需要通过计划中决定迭代完成的目标，然后把这个进行整合，形成一个搜索引擎
 - 2.业务建模<br>
-    -  a.酒店预定流程图<br>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)<br/><br>
-    -  b.ATM取款流程<br>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.png?raw=true)<br/><br>
-    -  c.淘宝退款流程<br>
-        ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)<br/><br>
-- 3.用例文本编写<br>
-    -  优点<br>
-        -  简洁、直观、易理解<br>
-        -  让需求和设计工作分离开来，条理清晰<br>
-    -  缺点<br>
-        -  无法描述细节<br>
+    -  a.酒店预定流程图
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-4.png?raw=true)<
+    -  b.ATM取款流程
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-5.png?raw=true)
+    -  c.淘宝退款流程
+        <br>![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-3-6.png?raw=true)
+- 3.用例文本编写
+    -  优点
+        -  简洁、直观、易理解
+        -  让需求和设计工作分离开来，条理清晰
+    -  缺点
+        -  无法描述细节
 
 <br><br><br><br><br><br><br>
 
