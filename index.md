@@ -325,3 +325,4 @@ CREATE TABLE `room` (
             View调用store.commit提交对应的请求到Store中对应的mutation函数   ->   store改变生成新的state(vue检测到数据变化自动渲染)
 ```
 <br><br><br><br><br><br><br>
+
