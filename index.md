@@ -329,5 +329,7 @@ CREATE TABLE `room` (
 
 
 ## 第八次作业
+### 题目
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-8-1.png?raw=true)<br>
 
 
