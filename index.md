@@ -332,4 +332,11 @@ CREATE TABLE `room` (
 ### 题目
 ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/q-8-1.png?raw=true)<br>
 
+<br/>
+
+### 解答
+make reservation 用例：用户输入地点和时间查询，获得该地旅馆或者推荐地点，选择旅馆进入房间选择页面输入类型，获得订单确认进行下单
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-8-1.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-8-2.png?raw=true)<br>
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/a-8-3.png?raw=true)<br>
 
