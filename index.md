@@ -346,3 +346,16 @@ make reservation 用例：用户输入地点和时间查询，获得该地旅馆
 
 ## 个人报告
 ### 微信点餐系统
+- 个人总结
+    -  这是一次比较规范的、完整的团队开发、设计、实现一个项目，我体会到了在项目开发过程中版本管理工具的重要，因为没有合理地管理好版本，则开发将会混乱不堪，而如果有了优秀的开发管理工具，则可让每个人的开发变得井井有条。
+    -  这次开发我主要负责小程序的前端开发，以及和后端数据交互的对接。由于之前自学了小程序，所以在开发过程中能体会到小程序的轻便，也体会到了MVC思想在代码中的体现
+        
+- 代码统计
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/tongji.png?raw=true)<br>
+
+- 个人贡献
+![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/gongxian.png?raw=true)<br>
+
+- 学习博客
+[个人入门项目](http://luguanxing.online:8080/blog/article/77.html)
+[个人练习项目](https://github.com/luguanxing/WeChat-Mini-Program)
