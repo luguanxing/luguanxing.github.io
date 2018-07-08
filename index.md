@@ -357,5 +357,5 @@ make reservation 用例：用户输入地点和时间查询，获得该地旅馆
 ![img](https://github.com/luguanxing/luguanxing.github.io/blob/master/pictures/gongxian.png?raw=true)<br><br>
 
 - 学习博客
-[个人入门项目](http://luguanxing.online:8080/blog/article/77.html)
-[个人练习项目](https://github.com/luguanxing/WeChat-Mini-Program)
+<br>[个人入门项目](http://luguanxing.online:8080/blog/article/77.html)
+<br>[个人练习项目](https://github.com/luguanxing/WeChat-Mini-Program)
